@@ -1,0 +1,7 @@
+{
+  "special-digramation": {
+    "component": "CustomGrid",
+    "composition": "children",
+    "render": "client"
+  }
+}
